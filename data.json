@@ -1,0 +1,507 @@
+{
+  "source": "User-provided image; not verified against current game version",
+  "sections": [
+    {
+      "room": "Laboratory",
+      "name": "Heat Source",
+      "levels": [
+        {
+          "level": 1,
+          "materials": {
+            "Steel": 3,
+            "Construction Material": 2,
+            "Wood": 1
+          },
+          "cash": 0
+        },
+        {
+          "level": 2,
+          "materials": {
+            "Steel": 4,
+            "Plumbing Parts": 2,
+            "Construction Material": 3,
+            "Burner Head": 1
+          },
+          "cash": 0
+        },
+        {
+          "level": 3,
+          "materials": {
+            "Steel": 10,
+            "Plumbing Parts": 5,
+            "Construction Material": 5,
+            "Burner Head": 2,
+            "Mechanical Parts": 2
+          },
+          "cash": 40000
+        }
+      ]
+    },
+    {
+      "room": "Laboratory",
+      "name": "Extraction Vessel",
+      "levels": [
+        {
+          "level": 1,
+          "materials": {
+            "Steel": 1,
+            "Copper": 1,
+            "Plumbing Parts": 1,
+            "Analog Indicator": 1
+          },
+          "cash": 0
+        },
+        {
+          "level": 2,
+          "materials": {
+            "Copper": 5,
+            "Plumbing Parts": 1,
+            "Analog Indicator": 1,
+            "Water Pump": 1
+          },
+          "cash": 0
+        }
+      ]
+    },
+    {
+      "room": "Laboratory",
+      "name": "Reaction Vessel",
+      "levels": [
+        {
+          "level": 1,
+          "materials": {
+            "Plastics": 2,
+            "Construction Material": 1,
+            "Silicone Sealant": 1
+          },
+          "cash": 0
+        },
+        {
+          "level": 2,
+          "materials": {
+            "Steel": 4,
+            "Chemicals": 2,
+            "Zinc Electrode": 1
+          },
+          "cash": 0
+        },
+        {
+          "level": 3,
+          "materials": {
+            "Steel": 12,
+            "Stainless Steel Sheet": 3,
+            "Mechanical Parts": 6
+          },
+          "cash": 45000
+        }
+      ]
+    },
+    {
+      "room": "Laboratory",
+      "name": "Filtration",
+      "levels": [
+        {
+          "level": 1,
+          "materials": {
+            "Wood": 2,
+            "Fabric": 4
+          },
+          "cash": 0
+        },
+        {
+          "level": 2,
+          "materials": {
+            "Steel": 3,
+            "Fine Metal Mesh": 2
+          },
+          "cash": 0
+        }
+      ]
+    },
+    {
+      "room": "Laboratory",
+      "name": "Analysis",
+      "levels": [
+        {
+          "level": 1,
+          "materials": {
+            "Plastics": 2,
+            "Electrical Parts": 1,
+            "Circuit Board": 1,
+            "Complex Glass Electrode": 1
+          },
+          "cash": 0
+        },
+        {
+          "level": 2,
+          "materials": {
+            "Plastics": 2,
+            "Electrical Parts": 4,
+            "Circuit Board": 3,
+            "Mechanical Parts": 2,
+            "Vapor Lamp": 1,
+            "Crystal Prism": 1
+          },
+          "cash": 35000
+        }
+      ]
+    },
+    {
+      "room": "Laboratory",
+      "name": "Glassware",
+      "levels": [
+        {
+          "level": 1,
+          "materials": {
+            "Glass": 1,
+            "Plastics": 1,
+            "Laboratory Flask": 1
+          },
+          "cash": 0
+        },
+        {
+          "level": 2,
+          "materials": {
+            "Glass": 2,
+            "Plastics": 1,
+            "Laboratory Flask": 1,
+            "Mechanical Pipette": 1
+          },
+          "cash": 0
+        }
+      ]
+    },
+    {
+      "room": "Laboratory",
+      "name": "Storage Equipment",
+      "levels": [
+        {
+          "level": 1,
+          "materials": {
+            "Steel": 1,
+            "Electrical Parts": 1,
+            "Refrigerant": 1,
+            "Plumbing Parts": 1
+          },
+          "cash": 0
+        },
+        {
+          "level": 2,
+          "materials": {
+            "Steel": 3,
+            "Glass": 3,
+            "Plumbing Parts": 2,
+            "Refrigerant": 1
+          },
+          "cash": 0
+        },
+        {
+          "level": 3,
+          "materials": {
+            "Steel": 6,
+            "Glass": 5,
+            "Plumbing Parts": 2,
+            "Refrigerant": 2,
+            "Electrical Parts": 2,
+            "Circuit Board": 2
+          },
+          "cash": 45000
+        }
+      ]
+    },
+    {
+      "room": "Laboratory",
+      "name": "Ventilation System",
+      "levels": [
+        {
+          "level": 1,
+          "materials": {
+            "Electrical Parts": 2,
+            "Plastics": 2,
+            "Fan": 2
+          },
+          "cash": 0
+        },
+        {
+          "level": 2,
+          "materials": {
+            "Steel": 10,
+            "Electrical Parts": 5,
+            "Plumbing Parts": 5,
+            "PC Fan": 3,
+            "HEPA Filter": 1
+          },
+          "cash": 35000
+        }
+      ]
+    },
+    {
+      "room": "Workshop",
+      "name": "Hardware",
+      "levels": [
+        {
+          "level": 1,
+          "materials": {
+            "Motherboard": 1,
+            "Graphics Card": 1,
+            "CPU": 1,
+            "PC Fan": 1,
+            "RAM": 1,
+            "Power Supply": 1
+          },
+          "cash": 0
+        },
+        {
+          "level": 2,
+          "materials": {
+            "Motherboard": 1,
+            "Graphics Card": 1,
+            "CPU": 1,
+            "Plumbing Parts": 2,
+            "RAM": 3,
+            "Power Supply": 1
+          },
+          "cash": 0
+        },
+        {
+          "level": 3,
+          "materials": {
+            "Motherboard": 1,
+            "Server CPU": 1,
+            "Electrical Parts": 1,
+            "RAM": 4,
+            "Power Supply": 1
+          },
+          "cash": 45000
+        }
+      ]
+    },
+    {
+      "room": "Workshop",
+      "name": "Software",
+      "levels": [
+        {
+          "level": 1,
+          "materials": {
+            "Civilian Software": 3,
+            "Military Software": 1
+          },
+          "cash": 0
+        },
+        {
+          "level": 2,
+          "materials": {
+            "Civilian Software": 6,
+            "Military Software": 2,
+            "Graphics Card": 1
+          },
+          "cash": 0
+        }
+      ]
+    },
+    {
+      "room": "Workshop",
+      "name": "Microelectronics",
+      "levels": [
+        {
+          "level": 1,
+          "materials": {
+            "Soldering Iron": 1,
+            "Multimeter": 1,
+            "Toolset": 1,
+            "Power Supply": 1,
+            "Wood": 1
+          },
+          "cash": 0
+        },
+        {
+          "level": 2,
+          "materials": {
+            "Soldering Iron": 1,
+            "Multimeter": 1,
+            "Power Supply": 1,
+            "Oscilloscope": 1,
+            "Electrical Parts": 4
+          },
+          "cash": 0
+        },
+        {
+          "level": 3,
+          "materials": {
+            "Microscope": 1,
+            "Multimeter": 1,
+            "Circuit Board": 2,
+            "Power Supply": 1,
+            "Oscilloscope": 1,
+            "Electrical Parts": 5
+          },
+          "cash": 35000
+        }
+      ]
+    },
+    {
+      "room": "Workshop",
+      "name": "Machine Tools",
+      "levels": [
+        {
+          "level": 1,
+          "materials": {
+            "Wood": 1,
+            "Steel": 1,
+            "Toolset": 1
+          },
+          "cash": 0
+        },
+        {
+          "level": 2,
+          "materials": {
+            "Steel": 3,
+            "Mechanical Parts": 2,
+            "Electrical Parts": 1,
+            "Tooling Coolant": 1,
+            "CNC Drill Bits": 1
+          },
+          "cash": 0
+        }
+      ]
+    },
+    {
+      "room": "Workshop",
+      "name": "RF Sensor",
+      "levels": [
+        {
+          "level": 1,
+          "materials": {
+            "Wood": 1,
+            "Steel": 1,
+            "Electrical Parts": 1,
+            "Signal Generator": 1,
+            "Soldering Iron": 1
+          },
+          "cash": 0
+        },
+        {
+          "level": 2,
+          "materials": {
+            "Steel": 6,
+            "Mechanical Parts": 2,
+            "Electrical Parts": 4,
+            "Signal Generator": 1,
+            "Oscilloscope": 1,
+            "Laser Tube": 1
+          },
+          "cash": 30000
+        }
+      ]
+    },
+    {
+      "room": "Workshop",
+      "name": "Storage Equipment",
+      "levels": [
+        {
+          "level": 1,
+          "materials": {
+            "Wood": 1,
+            "Mechanical Parts": 1
+          },
+          "cash": 0
+        },
+        {
+          "level": 2,
+          "materials": {
+            "Steel": 9,
+            "Mechanical Parts": 3
+          },
+          "cash": 0
+        },
+        {
+          "level": 3,
+          "materials": {
+            "Steel": 12,
+            "Mechanical Parts": 6,
+            "Stainless Steel Sheet": 4
+          },
+          "cash": 30000
+        }
+      ]
+    },
+    {
+      "room": "Utility Room",
+      "name": "Generator",
+      "levels": [
+        {
+          "level": 1,
+          "materials": {
+            "Steel": 1,
+            "Mechanical Parts": 1,
+            "Motor Oil": 1,
+            "Dynamo": 1
+          },
+          "cash": 0
+        },
+        {
+          "level": 2,
+          "materials": {
+            "Steel": 2,
+            "Mechanical Parts": 2,
+            "Motor Oil": 1,
+            "Dynamo": 1,
+            "Plumbing Parts": 2,
+            "Electrical Parts": 2
+          },
+          "cash": 0
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "Analog Indicator": 2,
+    "Burner Head": 3,
+    "CNC Drill Bits": 1,
+    "CPU": 2,
+    "Cash": 340000,
+    "Chemicals": 2,
+    "Circuit Board": 8,
+    "Civilian Software": 9,
+    "Complex Glass Electrode": 1,
+    "Construction Material": 11,
+    "Copper": 6,
+    "Crystal Prism": 1,
+    "Dynamo": 2,
+    "Electrical Parts": 33,
+    "Fabric": 4,
+    "Fan": 2,
+    "Fine Metal Mesh": 2,
+    "Glass": 11,
+    "Graphics Card": 3,
+    "HEPA Filter": 1,
+    "Laboratory Flask": 2,
+    "Laser Tube": 1,
+    "Mechanical Parts": 27,
+    "Mechanical Pipette": 1,
+    "Microscope": 1,
+    "Military Software": 3,
+    "Motherboard": 3,
+    "Motor Oil": 2,
+    "Multimeter": 3,
+    "Oscilloscope": 3,
+    "PC Fan": 4,
+    "Plastics": 10,
+    "Plumbing Parts": 23,
+    "Power Supply": 6,
+    "RAM": 8,
+    "Refrigerant": 4,
+    "Server CPU": 1,
+    "Signal Generator": 2,
+    "Silicone Sealant": 1,
+    "Soldering Iron": 3,
+    "Stainless Steel Sheet": 7,
+    "Steel": 92,
+    "Tooling Coolant": 1,
+    "Toolset": 2,
+    "Vapor Lamp": 1,
+    "Water Pump": 1,
+    "Wood": 7,
+    "Zinc Electrode": 1
+  }
+}

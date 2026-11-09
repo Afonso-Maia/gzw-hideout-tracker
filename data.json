@@ -503,5 +503,155 @@
     "Water Pump": 1,
     "Wood": 7,
     "Zinc Electrode": 1
+  },
+  "icons": {
+    "Analog Indicator": {
+      "path": "icons/analog-indicator.webp",
+      "source": "https://gzwiki.org/en/items/analog-indicator"
+    },
+    "Burner Head": {
+      "path": "icons/burner-head.webp",
+      "source": "https://gzwiki.org/en/items/burner-head"
+    },
+    "CNC Drill Bits": {
+      "path": "icons/cnc-drill-bits.webp",
+      "source": "https://gzwiki.org/en/items/cnc-drill-bits"
+    },
+    "CPU": {
+      "path": "icons/cpu.webp",
+      "source": "https://gzwiki.org/en/items/cpu"
+    },
+    "Chemicals": {
+      "path": "icons/chemicals.webp",
+      "source": "https://gzwiki.org/en/items/chemicals"
+    },
+    "Circuit Board": {
+      "path": "icons/circuit-board.webp",
+      "source": "https://gzwiki.org/en/items/circuit-board"
+    },
+    "Civilian Software": {
+      "path": "icons/civilian-software.webp",
+      "source": "https://gzwiki.org/en/items/civilian-software"
+    },
+    "Complex Glass Electrode": {
+      "path": "icons/complex-glass-electrode.webp",
+      "source": "https://gzwiki.org/en/items/complex-glass-electrode"
+    },
+    "Construction Material": {
+      "path": "icons/construction-material.webp",
+      "source": "https://gzwiki.org/en/items/construction-material"
+    },
+    "Copper": {
+      "path": "icons/copper.webp",
+      "source": "https://gzwiki.org/en/items/copper"
+    },
+    "Dynamo": {
+      "path": "icons/dynamo.webp",
+      "source": "https://gzwiki.org/en/items/dynamo"
+    },
+    "Electrical Parts": {
+      "path": "icons/electrical-parts.webp",
+      "source": "https://gzwiki.org/en/items/electrical-parts"
+    },
+    "Glass": {
+      "path": "icons/glass.webp",
+      "source": "https://gzwiki.org/en/items/glass"
+    },
+    "Graphics Card": {
+      "path": "icons/graphics-card.webp",
+      "source": "https://gzwiki.org/en/items/graphics-card"
+    },
+    "HEPA Filter": {
+      "path": "icons/hepa-filter.webp",
+      "source": "https://gzwiki.org/en/items/hepa-filter"
+    },
+    "Laboratory Flask": {
+      "path": "icons/laboratory-flask.webp",
+      "source": "https://gzwiki.org/en/items/laboratory-flask"
+    },
+    "Laser Tube": {
+      "path": "icons/laser-tube.webp",
+      "source": "https://gzwiki.org/en/items/laser-tube"
+    },
+    "Mechanical Parts": {
+      "path": "icons/mechanical-parts.webp",
+      "source": "https://gzwiki.org/en/items/mechanical-parts"
+    },
+    "Mechanical Pipette": {
+      "path": "icons/mechanical-pipette.webp",
+      "source": "https://gzwiki.org/en/items/mechanical-pipette"
+    },
+    "Microscope": {
+      "path": "icons/microscope.webp",
+      "source": "https://gzwiki.org/en/items/microscope"
+    },
+    "Military Software": {
+      "path": "icons/military-software.webp",
+      "source": "https://gzwiki.org/en/items/military-software"
+    },
+    "Motherboard": {
+      "path": "icons/motherboard.webp",
+      "source": "https://gzwiki.org/en/items/motherboard"
+    },
+    "Multimeter": {
+      "path": "icons/multimeter.webp",
+      "source": "https://gzwiki.org/en/items/multimeter"
+    },
+    "Oscilloscope": {
+      "path": "icons/oscilloscope.webp",
+      "source": "https://gzwiki.org/en/items/oscilloscope"
+    },
+    "PC Fan": {
+      "path": "icons/pc-fan.webp",
+      "source": "https://gzwiki.org/en/items/pc-fan"
+    },
+    "Plastics": {
+      "path": "icons/plastics.webp",
+      "source": "https://gzwiki.org/en/items/plastics"
+    },
+    "Plumbing Parts": {
+      "path": "icons/plumbing-parts.webp",
+      "source": "https://gzwiki.org/en/items/plumbing-parts"
+    },
+    "Power Supply": {
+      "path": "icons/power-supply.webp",
+      "source": "https://gzwiki.org/en/items/power-supply"
+    },
+    "RAM": {
+      "path": "icons/ram.webp",
+      "source": "https://gzwiki.org/en/items/ram"
+    },
+    "Refrigerant": {
+      "path": "icons/refrigerant.webp",
+      "source": "https://gzwiki.org/en/items/refrigerant"
+    },
+    "Server CPU": {
+      "path": "icons/server-cpu.webp",
+      "source": "https://gzwiki.org/en/items/server-cpu"
+    },
+    "Signal Generator": {
+      "path": "icons/signal-generator.webp",
+      "source": "https://gzwiki.org/en/items/signal-generator"
+    },
+    "Soldering Iron": {
+      "path": "icons/soldering-iron.webp",
+      "source": "https://gzwiki.org/en/items/soldering-iron"
+    },
+    "Stainless Steel Sheet": {
+      "path": "icons/stainless-steel-sheet.webp",
+      "source": "https://gzwiki.org/en/items/stainless-steel-sheet"
+    },
+    "Steel": {
+      "path": "icons/steel.webp",
+      "source": "https://gzwiki.org/en/items/steel"
+    },
+    "Tooling Coolant": {
+      "path": "icons/tooling-coolant.webp",
+      "source": "https://gzwiki.org/en/items/tooling-coolant"
+    },
+    "Wood": {
+      "path": "icons/wood.webp",
+      "source": "https://gzwiki.org/en/items/wood"
+    }
   }
 }

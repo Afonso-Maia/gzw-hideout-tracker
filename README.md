@@ -40,3 +40,9 @@ Use an HTTP server instead of double-clicking index.html: the browser fetches th
 Edit and commit the site files on `main`; GitHub Pages republishes them. Keep index.html, style.css, app.js, and data.json together. Keep the storage key and backup format compatible to retain existing progress.
 
 Requirements were transcribed from a user-supplied image, not verified against the current game version. Surplus calculations cover unfinished hideout upgrades only, not quests or other uses. Unofficial fan tool.
+
+## Inventory images
+
+Inventory tiles are sourced from [GZW Wiki](https://gzwiki.org/en/items), with per-item source links in the `icons` field of `data.json`. Game artwork belongs to its respective owners. Items without a verified tile display by name.
+
+When publishing, include the `icons/` folder alongside the existing site files.
